@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/airport-service/airport-service.iml" filepath="$PROJECT_DIR$/airport-service/airport-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/booking-service/booking-service.iml" filepath="$PROJECT_DIR$/booking-service/booking-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flight-service/flight-service.iml" filepath="$PROJECT_DIR$/flight-service/flight-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/persistance-service/persistance-service.iml" filepath="$PROJECT_DIR$/persistance-service/persistance-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/report-service/report-service.iml" filepath="$PROJECT_DIR$/report-service/report-service.iml" />
+    </modules>
+  </component>
+</project>
